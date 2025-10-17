@@ -13,7 +13,7 @@ Una landing page moderna y atractiva para promocionar el sorteo de una camioneta
   - Información detallada del sorteo
   - Términos y condiciones
 - **Animaciones**: Efectos visuales atractivos
-- **SEO Optimizado**: Meta tags y estructura semánticaGG
+- **SEO Optimizado**: Meta tags y estructura semánticaGGsdsa
 
 ## 📁 Estructura del Proyecto
 
