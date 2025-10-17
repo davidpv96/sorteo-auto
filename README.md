@@ -7,13 +7,13 @@ Una landing page moderna y atractiva para promocionar el sorteo de una camioneta
 - **Diseño Responsivo**: Se adapta perfectamente a todos los dispositivos
 - **Colores Corporativos**: Esquema de colores dorado, verde y blanco
 - **Botón WhatsApp**: Botón flotante para contacto directo
-- **Secciones Organizadas**: 
+- **Secciones Organizadas**:
   - Hero con video promocional
   - Galería de imágenes de la camioneta
   - Información detallada del sorteo
   - Términos y condiciones
 - **Animaciones**: Efectos visuales atractivos
-- **SEO Optimizado**: Meta tags y estructura semántica
+- **SEO Optimizado**: Meta tags y estructura semánticaGG
 
 ## 📁 Estructura del Proyecto
 
@@ -40,7 +40,7 @@ Coloca las siguientes imágenes en la carpeta `public/images/`:
 
 - `logo.png` - Logo de tu empresa
 - `camioneta-1.jpg` - Vista frontal de la camioneta
-- `camioneta-2.jpg` - Vista lateral de la camioneta  
+- `camioneta-2.jpg` - Vista lateral de la camioneta
 - `camioneta-3.jpg` - Interior de la camioneta
 - `camioneta-poster.jpg` - Imagen de portada para el video
 
@@ -55,16 +55,19 @@ El botón de WhatsApp está configurado con el número: **986119975**
 ## 🚀 Instalación y Uso
 
 1. **Instalar dependencias:**
+
    ```bash
    npm install
    ```
 
 2. **Ejecutar en modo desarrollo:**
+
    ```bash
    npm run dev
    ```
 
 3. **Construir para producción:**
+
    ```bash
    npm run build
    ```
@@ -85,14 +88,18 @@ El botón de WhatsApp está configurado con el número: **986119975**
 ## 🎨 Personalización
 
 ### Colores
+
 Los colores están definidos en `tailwind.config.mjs`:
+
 - Dorado: `#D4AF37`
 - Verde: `#228B22`
 - Verde Oscuro: `#006400`
 - Dorado Oscuro: `#B8860B`
 
 ### Contenido
+
 Edita `src/pages/index.astro` para modificar:
+
 - Textos y títulos
 - Información del sorteo
 - Términos y condiciones
